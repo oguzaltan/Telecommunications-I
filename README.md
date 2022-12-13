@@ -1,4 +1,4 @@
-# EEE431_Telecommunications_I
+# Telecommunications_I
 This repository contains two mini projects created and submitted for the course EEE431 Telecommunications I, provided by Bilkent University Electrical & Electronics Engineering Department. 
 
 ## Course Content
